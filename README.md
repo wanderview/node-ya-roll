@@ -1,4 +1,6 @@
-# YA-Role (Yet Another dice Rolling module)
+# ya-role
+
+Yet Another dice Rolling module.
 
 There are many excellent dice rolling modules out there.  You should probably
 check them out.  I decided to write my own mainly to play around with building

@@ -1,0 +1,22 @@
+{
+  "name": "ya-roll",
+  "description": "Yet Another dice Rolling module",
+  "keywords": [
+    "dice",
+    "roll"
+  ],
+  "version": "0.1.0",
+  "author": "Ben Kelly <ben@wanderview.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "nodeunit": "~0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanderview/node-ya-roll.git"
+  },
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "main": "roll.js"
+}
